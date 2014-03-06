@@ -45,9 +45,12 @@ namespace TabularReport
 
                     doc.Add(RenderTable(DT));
 
-                    PdfEFStream EmbeddedStream = new PdfEFStream(RenderXmlFile(DT), MyPdfWriter);
+                    // at this point we need to render an XML file and
+                    // embed it in the PDF
 
-                    System.Diagnostics.Debug.Print("");
+                    //PdfEFStream EmbeddedStream = new PdfEFStream(RenderXmlFile(DT), MyPdfWriter);
+
+                    //System.Diagnostics.Debug.Print("");
 
                 }
             }

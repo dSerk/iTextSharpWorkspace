@@ -21,3 +21,4 @@ D:\Users\Dan\My Documents\Visual Studio 2013\Projects\iTextSharpWorkspace\RomeoB
 D:\Users\Dan\My Documents\Visual Studio 2013\Projects\iTextSharpWorkspace\RomeoBravoSierra\obj\Debug\RomeoBravoSierra.Form_About.resources
 D:\Users\Dan\My Documents\Visual Studio 2013\Projects\iTextSharpWorkspace\RomeoBravoSierra\obj\Debug\RomeoBravoSierra.Properties.Resources.resources
 D:\Users\Dan\My Documents\Visual Studio 2013\Projects\iTextSharpWorkspace\RomeoBravoSierra\obj\Debug\RomeoBravoSierra.csproj.GenerateResource.Cache
+D:\Users\Dan\My Documents\Visual Studio 2013\Projects\iTextSharpWorkspace\RomeoBravoSierra\bin\Debug\VisualStudioGitIgnore.dll
