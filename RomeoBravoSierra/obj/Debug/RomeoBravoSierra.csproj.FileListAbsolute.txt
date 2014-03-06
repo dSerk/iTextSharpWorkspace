@@ -1,0 +1,23 @@
+\\ncidifls02\LawGeneral\Dev\Dan\Projects\iTextSharpWorkspace\RomeoBravoSierra\bin\Debug\RomeoBravoSierra.exe.config
+\\ncidifls02\LawGeneral\Dev\Dan\Projects\iTextSharpWorkspace\RomeoBravoSierra\bin\Debug\RomeoBravoSierra.exe
+\\ncidifls02\LawGeneral\Dev\Dan\Projects\iTextSharpWorkspace\RomeoBravoSierra\bin\Debug\RomeoBravoSierra.pdb
+\\ncidifls02\LawGeneral\Dev\Dan\Projects\iTextSharpWorkspace\RomeoBravoSierra\bin\Debug\itextsharp.dll
+\\ncidifls02\LawGeneral\Dev\Dan\Projects\iTextSharpWorkspace\RomeoBravoSierra\obj\Debug\RomeoBravoSierra.csprojResolveAssemblyReference.cache
+\\ncidifls02\LawGeneral\Dev\Dan\Projects\iTextSharpWorkspace\RomeoBravoSierra\obj\Debug\RomeoBravoSierra.Form1.resources
+\\ncidifls02\LawGeneral\Dev\Dan\Projects\iTextSharpWorkspace\RomeoBravoSierra\obj\Debug\RomeoBravoSierra.Properties.Resources.resources
+\\ncidifls02\LawGeneral\Dev\Dan\Projects\iTextSharpWorkspace\RomeoBravoSierra\obj\Debug\RomeoBravoSierra.csproj.GenerateResource.Cache
+\\ncidifls02\LawGeneral\Dev\Dan\Projects\iTextSharpWorkspace\RomeoBravoSierra\obj\Debug\RomeoBravoSierra.exe
+\\ncidifls02\LawGeneral\Dev\Dan\Projects\iTextSharpWorkspace\RomeoBravoSierra\obj\Debug\RomeoBravoSierra.pdb
+\\ncidifls02\LawGeneral\Dev\Dan\Projects\iTextSharpWorkspace\RomeoBravoSierra\obj\Debug\RomeoBravoSierra.Form_About.resources
+D:\Users\Dan\My Documents\Visual Studio 2013\Projects\iTextSharpWorkspace\RomeoBravoSierra\bin\Debug\RomeoBravoSierra.exe.config
+D:\Users\Dan\My Documents\Visual Studio 2013\Projects\iTextSharpWorkspace\RomeoBravoSierra\obj\Debug\RomeoBravoSierra.exe
+D:\Users\Dan\My Documents\Visual Studio 2013\Projects\iTextSharpWorkspace\RomeoBravoSierra\obj\Debug\RomeoBravoSierra.pdb
+D:\Users\Dan\My Documents\Visual Studio 2013\Projects\iTextSharpWorkspace\RomeoBravoSierra\bin\Debug\RomeoBravoSierra.exe
+D:\Users\Dan\My Documents\Visual Studio 2013\Projects\iTextSharpWorkspace\RomeoBravoSierra\bin\Debug\RomeoBravoSierra.pdb
+D:\Users\Dan\My Documents\Visual Studio 2013\Projects\iTextSharpWorkspace\RomeoBravoSierra\bin\Debug\itextsharp.dll
+D:\Users\Dan\My Documents\Visual Studio 2013\Projects\iTextSharpWorkspace\RomeoBravoSierra\bin\Debug\itextsharp.xml
+D:\Users\Dan\My Documents\Visual Studio 2013\Projects\iTextSharpWorkspace\RomeoBravoSierra\obj\Debug\RomeoBravoSierra.csprojResolveAssemblyReference.cache
+D:\Users\Dan\My Documents\Visual Studio 2013\Projects\iTextSharpWorkspace\RomeoBravoSierra\obj\Debug\RomeoBravoSierra.Form1.resources
+D:\Users\Dan\My Documents\Visual Studio 2013\Projects\iTextSharpWorkspace\RomeoBravoSierra\obj\Debug\RomeoBravoSierra.Form_About.resources
+D:\Users\Dan\My Documents\Visual Studio 2013\Projects\iTextSharpWorkspace\RomeoBravoSierra\obj\Debug\RomeoBravoSierra.Properties.Resources.resources
+D:\Users\Dan\My Documents\Visual Studio 2013\Projects\iTextSharpWorkspace\RomeoBravoSierra\obj\Debug\RomeoBravoSierra.csproj.GenerateResource.Cache
