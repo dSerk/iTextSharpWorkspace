@@ -26,6 +26,11 @@
 ===================================================================================================================================
 
 #BEGIN GIT IGNORES
+
+#Ignore some thing becuz i sez so
+*.pdf
+
+
 #Ignore thumbnails created by windows
 Thumbs.db
 
