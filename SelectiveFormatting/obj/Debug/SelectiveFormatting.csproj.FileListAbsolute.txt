@@ -1,0 +1,6 @@
+D:\Users\Dan\My Documents\Visual Studio 2013\Projects\iTextSharpWorkspace\SelectiveFormatting\obj\Debug\SelectiveFormatting.csprojResolveAssemblyReference.cache
+D:\Users\Dan\My Documents\Visual Studio 2013\Projects\iTextSharpWorkspace\SelectiveFormatting\bin\Debug\SelectiveFormatting.exe.config
+D:\Users\Dan\My Documents\Visual Studio 2013\Projects\iTextSharpWorkspace\SelectiveFormatting\bin\Debug\SelectiveFormatting.exe
+D:\Users\Dan\My Documents\Visual Studio 2013\Projects\iTextSharpWorkspace\SelectiveFormatting\bin\Debug\SelectiveFormatting.pdb
+D:\Users\Dan\My Documents\Visual Studio 2013\Projects\iTextSharpWorkspace\SelectiveFormatting\obj\Debug\SelectiveFormatting.exe
+D:\Users\Dan\My Documents\Visual Studio 2013\Projects\iTextSharpWorkspace\SelectiveFormatting\obj\Debug\SelectiveFormatting.pdb
